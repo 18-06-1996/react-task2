@@ -115,6 +115,9 @@ setCount={setCount}
 </div>
 
 
+<div className='bottom'>
+   CopyRight @ Your Website 2023
+</div>
 </div> 
 
 
